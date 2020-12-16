@@ -3,7 +3,7 @@ import soundfile as sf
 
 
 
-playsound(a.wav)
+playsound('a.wav')
 sound_a = input("Hvilken bokstav er dette :")
 
 
